@@ -1,4 +1,6 @@
 # apnacollege-demo
+
 This is my first Git Repository
 <br>
-Author - Lucky Shukla 
+Author - Lucky (Apna College)
+
